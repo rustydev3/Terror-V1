@@ -1,0 +1,30 @@
+{
+  "token": "MTE2MjAxNDQzMDUxOTkwNjM3Ng.GGsDfn.KvuUS3evdgBLZ3QGJi2UX_4rp2F-6hoJFEzyGY",
+  "prefix": "?",
+  "webhook_error": "https://discord.com/api/webhooks/1283084129541427312/CnwOo6E-U3pd9xniNAPtztp4yoC61LyR7p8B7ISuI4NqvwtqNsMqoYumU5MaqXOM8bdH",
+  "mongoURL": "mongodb+srv://fearfn999:1234567890@cluster0.cdz35y3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "spotify_id": "24ef7b00b72f432aa5d419f78008d398",
+  "spotify_sec": "7fee5e6209e54b0681b0f5169646c14e",
+  "owner": [
+    "1242723054103035936"
+  ],
+  "gban_channel_id": "1276196498647945276",
+  "support_server_link": "https://discord.com/invite/ZvTzs6sNsy",
+  "guildLogs": "1276196498647945276",
+  "np": [
+    "1242723054103035936",
+    "1243912547594408042",
+    "1053918356375351386",
+    "1283463031413542966",
+    "935671956378906735",
+    "1243212619825942568",
+    "1154448507248328835",
+    "1116705678745141339",
+    "1056074845974188154",
+    "491630879085559808",
+    "1075796315189018704",
+    "897508880874111067",
+    "1263075019924176928"
+  ],
+  "ownerId": "1242723054103035936"
+}
